@@ -1,2 +1,1 @@
-# hello-world
-Just another test repo! 
+Base Splunk Config using github for the first time. 
